@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - i
 - 💞️ I have some what knowledge in R language and Java also.
 
-- 💬 Ask me about **Machine Learning algorithms, Power BI, Python, SQL**
+- 💬 Ask me about ** Power BI, SQL**
 
 - 📫 How to reach me **minakshisontake95@gmail.com**
 
